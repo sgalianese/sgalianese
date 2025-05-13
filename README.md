@@ -16,7 +16,7 @@
 
 - [Active Directory Home Lab Follow Along](https://www.youtube.com/@SeanGalianese)
 
-<h2>📺 Professional Certifications</h2>
+<h2>👨‍💻 Professional Certifications</h2>
 
 - [Google IT Support Professional Certification](https://coursera.org/share/4b873cd882e2e0c1376cd6e3a64d8d01)
 - [Microsoft Azure Fundamentals AZ-900](https://learn.microsoft.com/en-us/users/seangalianese-8812/credentials/e491751270d0f119)
