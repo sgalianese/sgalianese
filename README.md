@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/sgalianese/sgalianese)
+  - [Active Directory Home Lab](https://github.com/sgalianese/ActiveDirectoryHomeLab)
   - [Linux Project Name here](https://github.com/sgalianese/LABURL)
 
   
