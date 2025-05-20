@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Python Project Name here](https://github.com/sgalianese/LABURL)
+  - [Python Robot Barista](https://replit.com/@7bgqthffqd/EP3-2-Coffee-Math)
   - [Linux Project Name here](https://github.com/sgalianese/LABURL)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
