@@ -8,7 +8,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/sgalianese/ActiveDirectoryHomeLab)
-  - [Linux Project Name here](https://github.com/sgalianese/LABURL)
+  - [Home SOC Lab: SOC + SIEM Monitoring Live Attacks](https://github.com/sgalianese/LABURL)
 
   
 
