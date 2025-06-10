@@ -2,24 +2,25 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Python Robot Barista](https://github.com/sgalianese/PythonLab/)
-  - [Linux Project Name here](https://github.com/sgalianese/LABURL)
+  - [Python Robot Barista](https://github.com/sgalianese/PythonLab/)   IN PROGRESS
+  - [Linux Project Name here](https://github.com/sgalianese/LABURL)    Under Construction
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/sgalianese/ActiveDirectoryHomeLab)
-  - [Home SOC Lab: SOC + SIEM Monitoring Live Attacks](https://github.com/sgalianese/LABURL)
+  - [Active Directory Home Lab](https://github.com/sgalianese/ActiveDirectoryHomeLab)    Completed
+  - [Home SOC Lab: SOC + SIEM Monitoring Live Attacks](https://github.com/sgalianese/LABURL)   IN PROGRESS
 
   
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Active Directory Home Lab Follow Along](https://www.youtube.com/@SeanGalianese)
+- [Active Directory Home Lab Follow Along](https://www.youtube.com/@SeanGalianese) In Progress
 
 <h2>👨‍💻 Professional Certifications</h2>
 
 - [Google IT Support Professional Certification](https://coursera.org/share/4b873cd882e2e0c1376cd6e3a64d8d01)
 - [Microsoft Azure Fundamentals AZ-900](https://learn.microsoft.com/en-us/users/seangalianese-8812/credentials/e491751270d0f119)
+- [Google Cybersecurity Professional Certification](https://coursera.org/share/4b873cd882e2e0c1376cd6e3a64d8d01)
 
 <h2> 🤳 Connect with me:</h2>
 
